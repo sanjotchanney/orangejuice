@@ -1,0 +1,73 @@
+
+nav {
+	margin: -10px;
+	width: auto;
+	color: white;
+	display: inline-block; 
+	float: top;
+	background-color: orange;
+	text-decoration: none;
+}
+
+
+nav ul{
+	margin: -40px;
+	float: bottom right;
+
+}
+
+
+
+
+nav ul li  {
+margin: 50px;
+width: 35px;	
+display: inline-block;
+float: top;
+
+}
+
+
+body p{
+	float: right;
+	margin: 150px;
+	height: 100px;
+	width: 50%;
+}
+
+body button{
+	margin: 35px;
+	width: 100px;
+	display: inline-block;
+	float: right;
+}
+
+section {
+	margin: 50px;
+	width: 50%;
+	float: right; 
+	text-align: center;
+
+}
+section button1{
+	float: left; width: 20%;
+	margin: -20px;
+}
+
+
+nav a{
+	text-decoration: none;
+}
+
+
+ p{
+ 	font-style: italic;
+ 	font-size: 36.5px;
+ }
+
+img{
+	margin: 180px;
+ 	position: absolute;
+ 	left: 80px;
+ }
+
